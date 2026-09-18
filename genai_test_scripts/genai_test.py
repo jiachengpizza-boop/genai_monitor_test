@@ -10,6 +10,8 @@ REPO_OWNER = "jiachengpizza-boop"
 REPO_NAME = "genai_monitor_test"
 GEMINI_API_KEY = ""
 
+add some test code
+
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 async def main():
